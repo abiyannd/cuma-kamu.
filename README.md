@@ -84,7 +84,7 @@ inips[4] = "tapi jujur, aku bakal berusaha jadi cowo terbaik yang perna kamu tem
 inip[5] = "kamu udaa aku anggep rumaa ke-2 tempatku pulang, karna setiap di samping kamu doang aku bisa ngerasa tenang, seneng, intinya nyaman dee kalo deket kamu";
 inips[5] = "jadiiii, jangan tinggalin aku yaa, sayang banged pokonya sama kamu :)";
 
-pesanAkhiran = "stay with me jangan cuk-cuek hehehe. i love uuu milyyy😾";
+pesanAkhiran = "jangan cuek-cuek ya hehehe. i love uuu milyyy😾";
 </script>
 <script src="https://feeldreams.github.io/hanyakamu/script.js"></script>
 </body>
